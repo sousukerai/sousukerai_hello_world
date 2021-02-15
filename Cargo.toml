@@ -9,3 +9,4 @@ keywords = ["hello", "world"]
 license = "Apache-2.0"
 
 [dependencies]
+sousukerai_hello_world = "0.1.0"
